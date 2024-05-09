@@ -1,5 +1,11 @@
+import Nav from "./sections/Nav";
+
 function App() {
-  return <h1>app</h1>;
+  return (
+    <>
+      <Nav />
+    </>
+  );
 }
 
 export default App;
